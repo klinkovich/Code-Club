@@ -18,7 +18,7 @@ height: 200%;
 	color: lime;
 }
 .border{
-	border: solid, black;
+	border: solid, black 1px;
 }
 .blacktext{
 	color: black;
