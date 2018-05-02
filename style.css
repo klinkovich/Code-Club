@@ -1,5 +1,5 @@
 .bigtext {
-height: 5px;
+height: 200%;
 }
 .redtext {
 	color: red;
@@ -9,7 +9,7 @@ height: 5px;
 }
 .redbigtext{
 	color: red;
-	height: 5px;
+	height: 200%;
 }
 .yellowtext{
 	color: yellow;
@@ -28,5 +28,5 @@ height: 5px;
 }
 .greenbigtext{
 	color: green;
-	height: 5px;
+height:200% ;
 }
