@@ -1,0 +1,32 @@
+.bigtext {
+height: 5px;
+}
+.redtext {
+	color: red;
+}
+.greentext{
+	color: green;
+}
+.redbigtext{
+	color: red;
+	height: 5px;
+}
+.yellowtext{
+	color: yellow;
+}
+.limetext{
+	color: lime;
+}
+.border{
+	border: solid, black;
+}
+.blacktext{
+	color: black;
+}
+.bluetext{
+	color: blue;
+}
+.greenbigtext{
+	color: green;
+	height: 5px;
+}
